@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aplicación de Gimnasia</string>
+    <string name="title">Aplicación de Gimnasia</string>
+    <string name="element_label_default">Elemento: 0 / 10</string>
+    <string name="score_label_default">Puntuación: 0</string>
+    <string name="element_label">Elemento: %1$d / 10</string>
+    <string name="score_label">Puntuación: %1$d</string>
+    <string name="perform">Ejecutar</string>
+    <string name="deduction">Deducción</string>
+    <string name="reset">Reiniciar</string>
+    <string name="msg_complete">¡Rutina completa!</string>
+    <string name="msg_deduction_end">Rutina finalizada por deducción.</string>
+    <string name="msg_no_perform_after_deduction">No se puede continuar después de una deducción.</string>
+    <string name="msg_no_deduction_before_first">No hay deducciones antes del primer elemento.</string>
+    <string name="msg_no_deduction_after_complete">No hay deducciones tras completar la rutina.</string>
+</resources>
